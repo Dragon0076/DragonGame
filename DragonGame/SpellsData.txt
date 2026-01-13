@@ -1,0 +1,63 @@
+"Inferno Breath", 10, 40, 75
+"Worldscorch", 10, 20, 75
+"Skyfire Tempest", 9, 45, 72
+"Meteor Maw", 10, 15, 75
+"Ashen Apocalypse", 10, 10, 75
+"Volcanic Roar", 9, 35, 73
+"Dragonflare", 8, 55, 62
+"Molten Surge", 8, 50, 61
+"Firestorm Spiral", 8, 45, 60
+"Blazewind", 7, 60, 52
+"Cinder Rain", 7, 65, 50
+"Scorchwave", 7, 55, 51
+"Flame Lash", 6, 70, 44
+"Burning Sky", 7, 50, 53
+"Emberfall", 6, 65, 43
+"Frost of Oblivion", 10, 15, 75
+"Glacier Rend", 9, 30, 73
+"White Doom", 9, 25, 72
+"Iceheart Ruin", 8, 45, 63
+"Frozen Cataclysm", 10, 10, 75
+"Blizzard Maw", 8, 50, 60
+"Shatterstorm", 8, 45, 61
+"Frost Nova", 7, 60, 52
+"Winter’s Bite", 6, 70, 44
+"Ice Lance", 6, 75, 42
+"Thunder of Kings", 10, 20, 75
+"Storm Annihilation", 10, 15, 75
+"Lightning Tyrant", 9, 35, 72
+"Skybreaker Bolt", 9, 40, 71
+"Tempest Wrath", 8, 50, 62
+"Thunder Spiral", 8, 55, 61
+"Stormclaw", 7, 60, 53
+"Lightning Fang", 7, 65, 52
+"Static Breath", 6, 70, 45
+"Void of Eternity", 10, 0, 75
+"Endless Maw", 10, 0, 75
+"Darkstar Collapse", 10, 5, 75
+"Shadow World", 9, 15, 74
+"Oblivion Tide", 9, 20, 73
+"Night of Nothing", 10, 0, 75
+"Voidflame", 9, 25, 72
+"Black Spiral", 8, 35, 64
+"Shadowrend", 8, 45, 62
+"Dark Pulse", 7, 55, 54
+"Soulfire", 7, 50, 55
+"Grave Eclipse", 9, 20, 74
+"Deathwind", 8, 40, 63
+"Soul Reaver", 8, 45, 62
+"Grim Breath", 7, 55, 54
+"Bone Storm", 7, 60, 53
+"Plague of Ash", 8, 40, 64
+"Toxic Sky", 7, 55, 53
+"Venom Rain", 6, 65, 46
+"Rotting Flame", 7, 50, 55
+"Corruption Wave", 8, 45, 63
+"Acid Cataclysm", 9, 30, 72
+"Worldrend Cry", 10, 10, 75
+"Ruin of Ages", 10, 5, 75
+"Dragon Judgment", 10, 15, 75
+"Final Conflagration", 10, 10, 75
+"Sky of Ash", 9, 25, 73
+"Storm of Extinction", 10, 10, 75
+"Breath of Ending", 10, 10, 75

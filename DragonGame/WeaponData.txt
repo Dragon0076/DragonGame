@@ -1,0 +1,150 @@
+"Embercleave", 3, 70, 22
+"Ashrend", 5, 60, 48
+"Skyfang", 4, 65, 40
+"Wyrmbane", 7, 55, 66
+"Flameward", 2, 70, 22
+"Nightflame", 6, 55, 54
+"Dawnrender", 5, 60, 47
+"Scalebreaker", 4, 50, 42
+"Stormedge", 5, 60, 49
+"Frostbite", 3, 65, 32
+"Sunpiercer", 4, 60, 41
+"Voidbrand", 7, 50, 67
+"Ashbringer", 6, 55, 55
+"Cinderkiss", 2, 70, 24
+"Riftblade", 7, 45, 69
+"Mooncleaver", 4, 60, 43
+"Bloodhowl", 6, 50, 58
+"Starshard", 4, 65, 39
+"Inferno Mirror", 5, 40, 50
+"Heartpierce", 4, 65, 38
+"Dragonfall", 7, 30, 70
+"Mountainrend", 7, 25, 71
+"Emberdoom", 7, 30, 68
+"Skybreaker", 6, 35, 60
+"Grave of Scales", 5, 30, 52
+"Titan’s Bane", 9, 15, 75
+"Firegutter", 3, 40, 33
+"Stormgrasp", 5, 35, 53
+"Doomward", 6, 35, 59
+"Frosttitan", 6, 30, 61
+"Earthsplitter", 7, 25, 72
+"Black Horizon", 7, 20, 73
+"Worldscar", 9, 10, 75
+"Ash Mountain", 4, 35, 44
+"Wyrmcrusher", 7, 25, 71
+"Scaleharvest", 4, 40, 41
+"Emberreap", 6, 45, 57
+"Frostreaper", 5, 45, 50
+"Doomcrescent", 6, 40, 58
+"Nightreaver", 5, 50, 49
+"Bone of Dragons", 5, 35, 54
+"Bloodmoon Reaper", 7, 30, 70
+"Gravewind", 4, 45, 40
+"Sunscythe", 4, 45, 41
+"Shadowharvest", 5, 40, 51
+"Soulcleaver", 6, 40, 60
+"Starfall Reaper", 6, 35, 59
+"Voidscythe", 7, 30, 71
+"Ashthorn", 3, 50, 34
+"Riftcrescent", 7, 30, 70
+"Skyspike", 3, 60, 31
+"Wyrmneedle", 4, 65, 38
+"Flamebinder", 2, 60, 20
+"Stormlance", 5, 55, 52
+"Frostbrand Pike", 3, 55, 33
+"Heartlance", 4, 60, 40
+"Earthshard", 3, 55, 35
+"Sunpiercer Lance", 4, 55, 41
+"Dreadthorn", 6, 50, 58
+"Void Pike", 6, 50, 62
+"Starharpoon", 4, 45, 44
+"Ashdrill", 3, 45, 36
+"Skyhook", 2, 50, 21
+"Iron Tempest", 6, 40, 60
+"Doomglaive", 7, 45, 69
+"Scalebreaker Axe", 4, 45, 43
+"Dragonmaul", 7, 30, 72
+"Emberfury", 5, 45, 50
+"Frostcrusher", 5, 40, 51
+"Stormhammer", 6, 35, 62
+"Bonecleaver", 5, 45, 53
+"Sunfall Hammer", 5, 35, 55
+"Voidcrush", 7, 25, 73
+"Ashstorm Axe", 4, 45, 42
+"Skullrend", 6, 40, 61
+"Skyshatter", 5, 40, 50
+"Earthquake", 6, 30, 64
+"Black Maw", 7, 25, 72
+"Riftbreaker", 7, 25, 74
+"Doomspine", 6, 40, 60
+"Dragonpiercer Bow", 5, 70, 46
+"Stormstring", 4, 65, 39
+"Frostwind Bow", 3, 70, 30
+"Sunshot", 3, 75, 28
+"Nightwhisper", 2, 80, 18
+"Ashrain", 4, 65, 37
+"Voidshot", 5, 60, 49
+"Starbow", 2, 70, 21
+"Bloodstring", 4, 60, 42
+"Doomcaster", 6, 55, 57
+"Wyrmbolt Crossbow", 5, 60, 48
+"Skyhook Ballista", 5, 10, 63
+"Emberhail Launcher", 5, 20, 60
+"Frostspike Thrower", 4, 30, 52
+"Thunder Cannon", 7, 15, 74
+"Sunlance Launcher", 5, 20, 61
+"Shadowballista", 5, 15, 62
+"Riftthrower", 7, 10, 75
+"Ashstorm Catapult", 5, 5, 64
+"Dragonfall Engine", 9, 0, 75
+"Heartsting", 2, 90, 19
+"Scalepick", 1, 85, 12
+"Emberfang", 4, 85, 36
+"Frostkiss", 1, 90, 11
+"Nightshard", 4, 85, 35
+"Bloodthorn", 5, 80, 46
+"Sunneedle", 2, 90, 18
+"Voidtooth", 6, 75, 58
+"Ashspike", 3, 85, 29
+"Starfang", 4, 85, 37
+"Riftshiv", 5, 80, 50
+"Doomkiss", 3, 85, 27
+"Whisperfang", 2, 90, 17
+"Skyneedle", 1, 90, 10
+"Gravefang", 5, 80, 47
+"Dragonsorrow", 9, 20, 75
+"Worldeater", 9, 0, 75
+"Flame of Ending", 9, 5, 75
+"Frost of Forever", 7, 5, 74
+"Storm of Kings", 7, 10, 73
+"Shadow of Nothing", 9, 0, 75
+"Sun of Slayers", 7, 10, 72
+"Ash of Ages", 7, 5, 74
+"Star of Doom", 9, 0, 75
+"Rift of Ruin", 9, 0, 75
+"Crown of Scales", 6, 40, 63
+"Heart of Fire", 6, 30, 64
+"Fang of Heaven", 6, 35, 62
+"Maw of Hell", 9, 15, 75
+"Whisper of Death", 7, 20, 73
+"Chain of Wyrms", 5, 50, 45
+"Net of Thunder", 5, 55, 44
+"Whip of Ash", 3, 65, 26
+"Hook of Skies", 3, 55, 28
+"Orb of Scorching", 4, 70, 38
+"Mirror of Flames", 3, 60, 27
+"Horn of Banishment", 4, 70, 34
+"Crown of Fear", 6, 60, 60
+"Drum of War", 4, 65, 36
+"Totem of Frost", 4, 55, 35
+"Blade of Echoes", 3, 60, 31
+"Lantern of Truth", 1, 80, 9
+"Cage of Light", 4, 20, 52
+"Chain of Stars", 4, 45, 40
+"Cloak of Ash", 2, 85, 16
+"Ring of Piercing", 2, 90, 17
+"Banner of Doom", 5, 70, 49
+"Hammer of Fate", 7, 35, 74
+"Scales of Balance", 4, 60, 39
+"The Last Fang", 7, 40, 72
