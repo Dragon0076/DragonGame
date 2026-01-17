@@ -21,17 +21,17 @@
 "Blizzard Maw", 8, 50, 60
 "Shatterstorm", 8, 45, 61
 "Frost Nova", 7, 60, 52
-"Winter’s Bite", 6, 70, 44
+"Winter’s Bite", 5, 70, 44
 "Ice Lance", 6, 75, 42
 "Thunder of Kings", 10, 20, 75
 "Storm Annihilation", 10, 15, 75
 "Lightning Tyrant", 9, 35, 72
 "Skybreaker Bolt", 9, 40, 71
 "Tempest Wrath", 8, 50, 62
-"Thunder Spiral", 8, 55, 61
+"Thunder Spiral", 4, 55, 61
 "Stormclaw", 7, 60, 53
 "Lightning Fang", 7, 65, 52
-"Static Breath", 6, 70, 45
+"Static Breath", 2, 70, 45
 "Void of Eternity", 10, 0, 75
 "Endless Maw", 10, 0, 75
 "Darkstar Collapse", 10, 5, 75
@@ -43,14 +43,14 @@
 "Shadowrend", 8, 45, 62
 "Dark Pulse", 7, 55, 54
 "Soulfire", 7, 50, 55
-"Grave Eclipse", 9, 20, 74
+"Grave Eclipse", 3, 20, 74
 "Deathwind", 8, 40, 63
 "Soul Reaver", 8, 45, 62
 "Grim Breath", 7, 55, 54
 "Bone Storm", 7, 60, 53
 "Plague of Ash", 8, 40, 64
 "Toxic Sky", 7, 55, 53
-"Venom Rain", 6, 65, 46
+"Venom Rain", 1, 45, 25
 "Rotting Flame", 7, 50, 55
 "Corruption Wave", 8, 45, 63
 "Acid Cataclysm", 9, 30, 72

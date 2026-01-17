@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+import java.util.Random;
 public class Weapon {
     private String name;
     private int damage;
@@ -38,6 +38,7 @@ public class Weapon {
         }
 
     }
+
     public void writeInfo() {
         if  (info == null) {
             System.out.println("Info is null");
@@ -68,6 +69,33 @@ public class Weapon {
         }
 
     }
+    public boolean pullRandomWithLevel(int targetLevel) {
+        Random rng = new Random();
+        int totalLines = 0;
+
+        // First count lines
+        try (BufferedReader br = new BufferedReader(new FileReader("src/WeaponData.txt"))) {
+            while (br.readLine() != null) totalLines++;
+        } catch (IOException e) {
+            e.printStackTrace();
+            return false;
+        }
+
+        if (totalLines == 0) return false;
+
+        // Try until match found
+        while (true) {
+            int randomLine = rng.nextInt(totalLines) + 1;
+
+            weaponGrab(randomLine);
+            writeInfo();
+
+            if (this.level == targetLevel) {
+                return true; // success
+            }
+            // else try again
+        }
+    }
     public String getName() {
         return name;
     }
@@ -80,6 +108,7 @@ public class Weapon {
     public int getDamage() {
         return damage;
     }
+
 
 
 }
